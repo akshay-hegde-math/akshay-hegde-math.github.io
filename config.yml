@@ -41,9 +41,7 @@ menu:
               weight: 2
 
 params:
-    description: "I'm a PhD student in Mathematics at the Indian Institute of Technology Dharwad.
-                  My research interest is in Commutative algebra. In particular, 
-                  I work on problems related to Hilbert functions."
+    description: " Probability"
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -67,15 +65,14 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Meghana Bhat
-          subtitle: "I'm a PhD student in Mathematics at the *Indian Institute of Technology Dharwad*. 
-                    My advisor is Prof. Shreedevi Masuti. My research interest is in *Commutative algebra*. In particular, I work on problems related to *Hilbert functions*, and *Waring rank of forms*.
-
+          title: Akshay Hegde
+          subtitle: "I'm a PTA assistant Professor at NUS. 
+                    
                     <br> 
                     <br>
-                    Contact: mbhat.math@gmail.com
+                    Contact: akshaychipgi@gmail.com
                     <br>
-                    Office: 530, A2 Science Block, IIT Dharwad"
+                    Office: NUS"
           imageUrl: "profile_picture.jpeg"
           imageWidth: 160
           imageHeight: 160
