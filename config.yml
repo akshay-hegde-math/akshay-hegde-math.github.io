@@ -15,24 +15,24 @@ menu:
         - name: Home
           url: /
           weight: 1
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 2
-        - name: Education
-          url: education/
+        - name: Short Bio
+          url: bio/
           weight: 3 
         - name: Teaching
           url: teaching/
           weight: 4
-        - name: Visits
-          url: visits/
-          weight: 5  
+        #- name: Visits
+        #  url: visits/
+        #  weight: 5  
         # - name: Academics
         #   url: courses/
         #   weight: 4
         - name: Miscellaneous
           url: miscellaneous/
-          weight: 6
+          weight: 5
           children:  # This defines the sub-pages under Miscellaneous
             - name: Links
               url: miscellaneous/links/  # You can adjust the URL as needed
@@ -43,12 +43,12 @@ menu:
 
 params:
     description: " Probability"
-    author: Name
+    # author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -85,9 +85,9 @@ params:
           imageTitle: Akshay Hegde
           buttons:
             - name: Research
-              url: papers/
-            - name: Education
-              url: education/ 
+              url: research/
+            - name: Short Bio
+              url: bio/ 
             - name: Teaching
               url: teaching/
             # - name: Visits
@@ -102,11 +102,9 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: https://drive.google.com/file/d/1zYq4JIxaegubbe1QHbAz94zlBjb5-2xb/view?usp=sharing
+          url: /Users/akshayhegde/Documents/akshay-hegde.github.io/static/CV_Akshay.pdf
         - name: Email
           url: mailto:akshay.hegde@nus.edu.sg
-        # - name: GitHub
-        #   url: https://github.com/MeghanaBht
         - name: LinkedIn
           url: https://www.linkedin.com/in/akshay-hegde-045984b9/
 

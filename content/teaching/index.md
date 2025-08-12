@@ -16,36 +16,14 @@ showToc: false
 disableAnchoredHeadings: false
 
 ---
-### Teaching Assistantship for B.Tech courses at IIT Dharwad
-#### 2024
-##### Spring
-+ Linear Algebra
-+ Differential Equations - I
+### Lectures at NUS
+#### 2025-26
++ [MA4262](https://nusmods.com/courses/MA4262/measure-and-integration) Measure and Integration (Fall)
++ [MA2101](https://nusmods.com/courses/MA2101/linear-algebra-ii) Linear Algebra II (Spring)
 ---
-#### 2023
-##### Spring
-+ Calculus I,II
-+ Linear Algebra
-##### Autumn
-+ Complex Analysis
-+ Differential Equations - II
----
-#### 2022
-##### Spring
-+ Linear Algebra
-+ Differential Equations - I
+### TA/Tutor at Oxford
 
-<!-- #### 2021
-+  -->
-
----
-### Mentorship outside IIT Dharwad
-- I am teaching the students of  outside colleges as a part of PMRF teaching duty. I have taught the following courses/concepts.
-    - At Karnataka Science college, Dharwad 
-        + Operations research - M.Sc. students (Jan - March 2024)
-        + Business Mathematics - B.Sc. students
-    - At Y.T.S.S. PU College, Yellapur
-        + Introduction to Probability (Decemeber - 2023)    
-    - At Mahatma Gandhi Memorial College, Udupi
-        + Introduction to Group Theory (March 2023)    
-- Mentor for the Online Foundation Course in Mathematics held online by MTTS (OFCM-2020) and (OFCM-2023).
++ Random matrix theory
++ Probability, measure, and martingale
++ Functional analysis
++ Topology
