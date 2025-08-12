@@ -102,9 +102,9 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: /Users/akshayhegde/Documents/akshay-hegde.github.io/static/CV_Akshay.pdf
+          url: /CV_Akshay.pdf
         - name: Email
-          url: mailto:akshay.hegde@nus.edu.sg
+          url: akshay.hegde@nus.edu.sg
         - name: LinkedIn
           url: https://www.linkedin.com/in/akshay-hegde-045984b9/
 
