@@ -67,22 +67,22 @@ params:
     profileMode:
           enabled: true
           title: Akshay Hegde
-          subtitle: "I'm a PTA assistant Professor at NUS. 
-                    This page is under construction.
+          subtitle: "I'm a Peng Tsu Ann assistant professor (visiting fellow) at the Department of Mathematics at NUS, Singapore. 
+                    
                     <br> 
                     <br>
-                    Contact: akshaychipgi@gmail.com
+                    Contact: akshay.hegde@nus.edu.sg
 
               
                     <br>
-                    Office: 05-10, S17 
-                            Department of Mathematics
-                            10, Lower Kent Ridge road
+                    Office: 05-10, S17 <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            Department of Mathematics <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            10, Lower Kent Ridge road <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                             Singapore "
           imageUrl: "profile_picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Meghana Bhat
+          imageWidth: 200
+          imageHeight: 220
+          imageTitle: Akshay Hegde
           buttons:
             - name: Research
               url: papers/
@@ -90,25 +90,25 @@ params:
               url: education/ 
             - name: Teaching
               url: teaching/
-            - name: Visits
-              url: visits/   
+            # - name: Visits
+            #  url: visits/   
             # - name: Academics
             #   url: courses/
-            - name: Miscellaneous
-              url: miscellaneous/
+            #- name: Miscellaneous
+            #  url: miscellaneous/
             # - name: Tags
             #   url: tags/
             # - name: Archive
             #   url: archive/
     socialIcons:
         - name: CV
-          url: https://drive.google.com/file/d/1Jwz6Hqx0jGf9El_Yoim0qFJTNAJ77CWN/view?usp=sharing
+          url: https://drive.google.com/file/d/1zYq4JIxaegubbe1QHbAz94zlBjb5-2xb/view?usp=sharing
         - name: Email
-          url: mailto:mbhat.math@gmail.com
+          url: mailto:akshay.hegde@nus.edu.sg
         # - name: GitHub
         #   url: https://github.com/MeghanaBht
         - name: LinkedIn
-          url: https://www.linkedin.com/in/meghanamath
+          url: https://www.linkedin.com/in/akshay-hegde-045984b9/
 
     assets:
         disableHLJS: true
@@ -117,7 +117,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Meghana Bhat"
+      text: "Akshay Hegde"
       icon: faviconM.ico
       iconHeight: 18
 
