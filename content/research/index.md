@@ -32,5 +32,5 @@ cover:
 ---
 ### Slides
 
-+ Bangalore probability seminar [slides](https://akshay-hegde-math.github.io/BPS-slides.pdf)
-+ Confirmation thesis [slides](https://akshay-hegde-math.github.io/Confirmation-slides.pdf)
++ Bangalore probability seminar [slides](/BPS-slides.pdf)
++ Confirmation thesis [slides](/Confirmation-slides.pdf)
