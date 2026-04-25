@@ -16,16 +16,18 @@ cover:
 
 
 ---
-## Papers
+## Published
 <ol>
 <li><em><strong>"On convergence of volume of level sets stationary smooth Gaussian fields"</strong></em><font size="3"> [with Dmitry Beliaev]. Available at [doi.org/10.1214/23-ECP543] , 2023. </li>
+
+<li><em><strong>"Geometry of smooth Gaussian fields [PhD thesis]. University of Oxford."</strong></em><font size="3"> [Link](https://ora.ox.ac.uk/objects/uuid:de28f521-a3f6-4d8f-a61f-0dc509843e1b), 2025. </li>
 
 </ol>
 
 ---
 ### Preprints
 <ol>
-<li><em><font size="4"><strong>"High critical points of smooth Gaussian fields"</strong></em> <font size="3"> [with Dmitry Beliaev]. In preparation, 2025.</li>
+<li><em><font size="4"><strong>"High local maxima of stationary smooth Gaussian fields"</strong></em> <font size="3"> [with Dmitry Beliaev]. arXiv:2602.20434 .</li>
 
 </ol>
 
@@ -33,4 +35,4 @@ cover:
 ### Slides
 
 + Bangalore probability seminar [slides](/BPS-slides.pdf)
-+ Confirmation thesis [slides](/Confirmation-slides.pdf)
+
