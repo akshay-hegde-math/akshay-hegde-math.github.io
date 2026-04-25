@@ -30,17 +30,6 @@ menu:
         # - name: Academics
         #   url: courses/
         #   weight: 4
-        - name: Miscellaneous
-          url: miscellaneous/
-          weight: 5
-          children:  # This defines the sub-pages under Miscellaneous
-            - name: Links
-              url: miscellaneous/links/  # You can adjust the URL as needed
-              weight: 1
-            - name: Frozen Moments
-              url: miscellaneous/musings/  # You can adjust the URL as needed
-              weight: 2
-
 params:
     description: " Probability"
     # author: Name
