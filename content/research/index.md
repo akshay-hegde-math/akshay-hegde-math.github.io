@@ -29,6 +29,8 @@ cover:
 <ol>
 <li><em><font size="4"><strong>"High local maxima of stationary smooth Gaussian fields"</strong></em> <font size="3"> [with Dmitry Beliaev]. arXiv:2602.20434 .</li>
 
+<li><em><font size="4"><strong>"Excursion Fluctuations and Spectral Universality in Gaussian Fields"</strong></em> <font size="3"> [with Dmitry Beliaev]. 	arXiv:2606.15630 .</li>
+
 </ol>
 
 ---
